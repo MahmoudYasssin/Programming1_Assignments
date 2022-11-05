@@ -1,7 +1,3 @@
-// Mahmoud yassin mahmoud yassin . 20200506
-// Hager ali younes . 20200614
-
-
 #include <iostream>
 
 using namespace std;
@@ -13,7 +9,7 @@ void old_system()
 
     //input
     cout<<"------------------------------------------------------------------------------------------------------------------"<<endl;
-    cout<<"you should take on consideration ,şthat for each first preference a candidate receives they will be given 3 points"<<endl;
+    cout<<"you should take on consideration ,Ã¾that for each first preference a candidate receives they will be given 3 points"<<endl;
     cout<<"second preference 2 points"<<endl;
     cout<<"and third preference 1 point ."<<endl;
     cout<<"The winner of the election will be the candidate with the most votes ."<<endl<<endl;

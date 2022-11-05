@@ -1,7 +1,3 @@
-// Mahmoud yassin mahmoud yassin . 20200506
-// Hager ali younes . 20200614
-
-
 #include <iostream>
 #include <cmath>
 using namespace std;
